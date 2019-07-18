@@ -1,5 +1,5 @@
 # Language-Detection
-
+<center><img src='https://engmrk.com/wp-content/uploads/2018/04/NLP.png'><center>
 
 ## What is Language Detection?
 
